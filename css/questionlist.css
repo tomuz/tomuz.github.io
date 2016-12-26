@@ -1,0 +1,28 @@
+.question-list{
+    list-style: none;
+    text-align: left;
+}
+
+.question-list > li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+    border-style: dotted;
+
+}
+.question-list > li article {
+    padding: 10px 10px 10px 28px;
+}
+.question-list >li p{
+    display: inline;
+}
+
+.question-list > li .ch-icon-comment {
+    color: #79A9F5;
+}
+
+.question-list > li .ch-icon-comments {
+    color: green;
+}
+.question-list .answer{
+    margin-left: 15px;
+}

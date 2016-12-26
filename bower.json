@@ -1,0 +1,20 @@
+{
+  "name": "meli",
+  "authors": [
+    "tomuz <tombuchaillot89@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

@@ -1,0 +1,14 @@
+@import url('product.min.css');
+@import url('tabs.min.css');
+@import url('carousel.min.css');
+@import url('questionlist.min.css');
+html, body{
+    width: 100%;
+    background: #f4f4f4;
+}
+.short-description, .section-extra {
+    text-align: center;
+    margin: 0 auto;
+}
+
+
